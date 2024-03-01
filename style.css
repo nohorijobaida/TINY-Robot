@@ -131,6 +131,20 @@ nav ul li a:hover {
     margin-bottom: 10px;
 }
 
+/* Contact page styles */
+.contact-content {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.contact-info {
+    text-align: left;
+    flex: 1;
+}
 
 
 /* Footer */
